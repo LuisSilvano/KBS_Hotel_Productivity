@@ -83,7 +83,11 @@ See [Reproducibility and validation](docs/REPRODUCIBILITY.md) for details.
 
 ## Data availability and privacy
 
-The original data were **not included in the files supplied for repository construction**. No raw hotel records, proprietary Excel workbooks, hotel-level predictions or cached notebook outputs are included in this archive. The `data/` folder provides instructions only; publish source data only with the rights holder's permission. Generated `resultados_*` directories and row-level output files are excluded by `.gitignore`.
+The original dataset is publicly available through Zenodo and can be accessed at the following link:
+
+**https://zenodo.org/records/24133516**
+
+The raw hotel records and associated source data are not included directly in this repository. Instead, users can access and download the original dataset from the Zenodo repository, subject to its licensing and usage conditions. The data/ folder provides instructions on how to obtain and organize the data required to reproduce the analysis. Proprietary Excel workbooks, hotel-level predictions, and cached notebook outputs are not included in this archive. Generated resultados_* directories and row-level output files are excluded through `.gitignore`.
 
 ## Environment and static checks
 
