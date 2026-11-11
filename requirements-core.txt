@@ -1,0 +1,17 @@
+# Common libraries imported by the source notebooks.
+# Versions are intentionally not claimed to match a fully reproduced run.
+# Record exact versions with scripts/report_environment.py.
+notebook
+jupyterlab
+ipykernel
+nbformat
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+lxml
+folium
+branca

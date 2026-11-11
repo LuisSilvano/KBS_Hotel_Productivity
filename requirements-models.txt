@@ -1,0 +1,10 @@
+# Common modelling libraries, installed separately because environments vary.
+-r requirements-core.txt
+xgboost
+lightgbm
+catboost
+torch
+statsmodels
+linearmodels
+shap
+# The tabular deep-learning backends are described in requirements-experimental.txt.

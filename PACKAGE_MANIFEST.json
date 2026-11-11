@@ -1,0 +1,63 @@
+{
+  "project": "Hotel labour productivity: spatio-temporal machine learning",
+  "status": "research manuscript in preparation",
+  "original_data_included": false,
+  "notebooks": [
+    {
+      "notebook": "00_Unified_Study_Guide.ipynb",
+      "source_file": "KBS_Luis_Silvano_Unified_Explained_REVIEWED_EN.ipynb",
+      "cells": 31,
+      "cleaned": true,
+      "sha256": "33f9a246f231c6f26e73e63304f1d4a255a6f2816f52ee9a2795d49a571d521b"
+    },
+    {
+      "notebook": "01_Pandemic_and_Temporal_Robustness.ipynb",
+      "source_file": "KBS_Luis_Silvano_Pandemic_Temporal_Robustness_REVIEWED_EN.ipynb",
+      "cells": 33,
+      "cleaned": true,
+      "sha256": "a2a080300527bb041ba4103a8a619226ef7b665e7922e06e5bebbf2d406c523d"
+    },
+    {
+      "notebook": "03_Modern_Temporal_Benchmark.ipynb",
+      "source_file": "KBS_Luis_Silvano_03_Modern_Temporal_Benchmark_REVIEWED_EN.ipynb",
+      "cells": 29,
+      "cleaned": true,
+      "sha256": "1e750c5a62645edbc1b997b773b660320e32f050ac74e4ce0e0c8cfcc3e0a734"
+    },
+    {
+      "notebook": "04_Dynamic_Panel_Regression.ipynb",
+      "source_file": "KBS_Luis_Silvano_04_Dynamic_Panel_Regression_REVIEWED_EN.ipynb",
+      "cells": 36,
+      "cleaned": true,
+      "sha256": "54950d2b2e1e7a7a8d15202a4c18c9881f45b55426308eab7b4dd1a037557132"
+    },
+    {
+      "notebook": "05_Tourism_Accessibility_and_Spatial_Profiles.ipynb",
+      "source_file": "KBS_Luis_Silvano_05_Tourism_Accessibility_Spatial_Hotel_Profiles_REVIEWED_EN.ipynb",
+      "cells": 26,
+      "cleaned": true,
+      "sha256": "221cd970d3854d78350419f8722d2e2828b3cf26b55b37911a55a01e609ebcbe"
+    },
+    {
+      "notebook": "06_Spatial_Profiles_and_Prediction.ipynb",
+      "source_file": "KBS_Luis_Silvano_06_Spatial_Profiles_Prediction_REVIEWED_EN.ipynb",
+      "cells": 32,
+      "cleaned": true,
+      "sha256": "cfc6907c67b5bd8435b09e660aea5c829ad45b00ef475a075edbb94c8772aa8e"
+    },
+    {
+      "notebook": "07_Integrated_SpatioTemporal_Benchmark.ipynb",
+      "source_file": "KBS_Luis_Silvano_07_Integrated_SpatioTemporal_Benchmark_REVIEWED_EN.ipynb",
+      "cells": 34,
+      "cleaned": true,
+      "sha256": "8f2b53a11b0c3cafc4a0a77b920866499f6d57c9b3cb6a0b5321e88c671e9d26"
+    },
+    {
+      "notebook": "08_RealMLP_Cluster_Confirmation.ipynb",
+      "source_file": "KBS_Luis_Silvano_08_RealMLP_Cluster_Confirmation_REVIEWED_EN.ipynb",
+      "cells": 19,
+      "cleaned": true,
+      "sha256": "125fd55f6dbcf710bb3b5b6bc62a4ba3ec3de0f25b078fe745947723f6e38b42"
+    }
+  ]
+}

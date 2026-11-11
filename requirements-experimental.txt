@@ -1,0 +1,11 @@
+# Optional research backends used in one or more notebooks.
+# Installation support, weight downloads, and licenses may differ by version and platform.
+# Do not assume that installation alone guarantees reproducibility.
+-r requirements-models.txt
+pytabkit
+pytorch-tabnet
+tabicl
+tabpfn
+causilo
+interpret
+# TabR may additionally require FAISS (platform-specific).
